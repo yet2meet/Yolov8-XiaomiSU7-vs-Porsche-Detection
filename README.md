@@ -12,8 +12,6 @@ This repository contains the source code, the trained model weights, and the nec
 ##  Requirements: Software
 To run this project, you need a Python environment (Python 3.8+) with the necessary dependencies installed.
 
-**Installation Command:**
-Please run the following command in the terminal to install the required libraries:
 
 ```bash
 pip install -r requirements.txt
