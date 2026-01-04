@@ -1,0 +1,8 @@
+Ultralytics 8.3.107 🚀 Python-3.9.21 torch-2.3.1+cu121 CUDA:0 (NVIDIA GeForce RTX 4070 SUPER, 12282MiB)
+Model summary (fused): 72 layers, 11,126,358 parameters, 0 gradients, 28.4 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 5/5 [00:01<00:00,  3.05it/s]
+                   all         80        108      0.934      0.873      0.926      0.793
+                   su7         51         56      0.981       0.92      0.979      0.869
+                 other         36         52      0.887      0.827      0.873      0.717
+Speed: 0.1ms preprocess, 3.7ms inference, 0.0ms loss, 0.8ms postprocess per image
+Results saved to F:\SD\sd-webui-aki-v4.8\sd-webui-aki-v4.8\runs\detect\train5

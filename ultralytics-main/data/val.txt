@@ -1,0 +1,80 @@
+f:\ultralytics-main\data\images\10016.jpg
+f:\ultralytics-main\data\images\10021.jpg
+f:\ultralytics-main\data\images\1004 (2).jpg
+f:\ultralytics-main\data\images\1005.jpg
+f:\ultralytics-main\data\images\10091.jpg
+f:\ultralytics-main\data\images\10107.jpg
+f:\ultralytics-main\data\images\1019.jpg
+f:\ultralytics-main\data\images\1027 (2).jpg
+f:\ultralytics-main\data\images\1031.jpg
+f:\ultralytics-main\data\images\104 (2).jpg
+f:\ultralytics-main\data\images\104.jpg
+f:\ultralytics-main\data\images\1046 (2).jpg
+f:\ultralytics-main\data\images\1068.jpg
+f:\ultralytics-main\data\images\1072.jpg
+f:\ultralytics-main\data\images\1079 (2).jpg
+f:\ultralytics-main\data\images\113 (2).jpg
+f:\ultralytics-main\data\images\113.jpg
+f:\ultralytics-main\data\images\1162.jpg
+f:\ultralytics-main\data\images\117.jpg
+f:\ultralytics-main\data\images\1226.jpg
+f:\ultralytics-main\data\images\1236 (2).jpg
+f:\ultralytics-main\data\images\1236.jpg
+f:\ultralytics-main\data\images\1272.jpg
+f:\ultralytics-main\data\images\1275.jpg
+f:\ultralytics-main\data\images\1308.jpg
+f:\ultralytics-main\data\images\131 (3).jpg
+f:\ultralytics-main\data\images\1347.jpg
+f:\ultralytics-main\data\images\136 (2).jpg
+f:\ultralytics-main\data\images\1366.jpg
+f:\ultralytics-main\data\images\1367.jpg
+f:\ultralytics-main\data\images\137 (2).jpg
+f:\ultralytics-main\data\images\141 (2).jpg
+f:\ultralytics-main\data\images\1414.jpg
+f:\ultralytics-main\data\images\142.jpg
+f:\ultralytics-main\data\images\145.jpg
+f:\ultralytics-main\data\images\147 (3).jpg
+f:\ultralytics-main\data\images\1561.jpg
+f:\ultralytics-main\data\images\172.jpg
+f:\ultralytics-main\data\images\18.jpg
+f:\ultralytics-main\data\images\191.jpg
+f:\ultralytics-main\data\images\2.jpg
+f:\ultralytics-main\data\images\209.jpg
+f:\ultralytics-main\data\images\247 (2).jpg
+f:\ultralytics-main\data\images\248.jpg
+f:\ultralytics-main\data\images\275.jpg
+f:\ultralytics-main\data\images\30 (2).jpg
+f:\ultralytics-main\data\images\311 (2).jpg
+f:\ultralytics-main\data\images\311 (3).jpg
+f:\ultralytics-main\data\images\378.jpg
+f:\ultralytics-main\data\images\392.jpg
+f:\ultralytics-main\data\images\394 (2).jpg
+f:\ultralytics-main\data\images\40 (2).jpg
+f:\ultralytics-main\data\images\412.jpg
+f:\ultralytics-main\data\images\416 (2).jpg
+f:\ultralytics-main\data\images\460.jpg
+f:\ultralytics-main\data\images\491 (2).jpg
+f:\ultralytics-main\data\images\510.jpg
+f:\ultralytics-main\data\images\551 (2).jpg
+f:\ultralytics-main\data\images\555.jpg
+f:\ultralytics-main\data\images\567.jpg
+f:\ultralytics-main\data\images\586.jpg
+f:\ultralytics-main\data\images\59.jpg
+f:\ultralytics-main\data\images\638.jpg
+f:\ultralytics-main\data\images\655.jpg
+f:\ultralytics-main\data\images\700.jpg
+f:\ultralytics-main\data\images\710.jpg
+f:\ultralytics-main\data\images\720.jpg
+f:\ultralytics-main\data\images\739.jpg
+f:\ultralytics-main\data\images\748.jpg
+f:\ultralytics-main\data\images\769.jpg
+f:\ultralytics-main\data\images\773.jpg
+f:\ultralytics-main\data\images\779.jpg
+f:\ultralytics-main\data\images\800 (2).jpg
+f:\ultralytics-main\data\images\800.jpg
+f:\ultralytics-main\data\images\818 (2).jpg
+f:\ultralytics-main\data\images\828.jpg
+f:\ultralytics-main\data\images\859.jpg
+f:\ultralytics-main\data\images\869.jpg
+f:\ultralytics-main\data\images\874.jpg
+f:\ultralytics-main\data\images\971.jpg

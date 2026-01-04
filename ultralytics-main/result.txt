@@ -1,0 +1,17 @@
+EarlyStopping: Training stopped early as no improvement observed in last 100 epochs. Best results observed at epoch 147, best model saved as best.pt.
+To update EarlyStopping(patience=100) pass a new patience value, i.e. `patience=300` or use `patience=0` to disable EarlyStopping.
+
+247 epochs completed in 1.616 hours.
+Optimizer stripped from F:\SD\sd-webui-aki-v4.8\sd-webui-aki-v4.8\runs\detect\train4\weights\last.pt, 6.3MB
+Optimizer stripped from F:\SD\sd-webui-aki-v4.8\sd-webui-aki-v4.8\runs\detect\train4\weights\best.pt, 6.3MB
+
+Validating F:\SD\sd-webui-aki-v4.8\sd-webui-aki-v4.8\runs\detect\train4\weights\best.pt...
+Ultralytics 8.3.107 🚀 Python-3.9.21 torch-2.3.1+cu121 CUDA:0 (NVIDIA GeForce RTX 4070 SUPER, 12282MiB)
+Model summary (fused): 72 layers, 3,006,038 parameters, 0 gradients, 8.1 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 5/5 [00:01<00:00,  3.39it/s]
+                   all         80        108      0.877      0.872      0.937      0.792
+                   su7         51         56      0.913      0.931       0.97      0.869
+                 other         36         52      0.841      0.813      0.905      0.716
+Speed: 0.1ms preprocess, 2.2ms inference, 0.0ms loss, 0.7ms postprocess per image
+Results saved to F:\SD\sd-webui-aki-v4.8\sd-webui-aki-v4.8\runs\detect\train4
+💡 Learn more at https://docs.ultralytics.com/modes/train

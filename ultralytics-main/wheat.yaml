@@ -1,0 +1,8 @@
+train: F:/ultralytics-main/data/train.txt
+val: F:/ultralytics-main/data/val.txt
+test: F:/ultralytics-main/data/test.txt
+
+nc: 2
+
+names: ["su7","other"]
+
