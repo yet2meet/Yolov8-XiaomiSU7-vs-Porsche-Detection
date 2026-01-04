@@ -7,10 +7,6 @@ This is a Computer Vision course final project based on **YOLOv8**. The goal is 
 
 This repository contains the source code, the trained model weights, and the necessary scripts for inference.
 
----
-
-##  Requirements: Software
-To run this project, you need a Python environment (Python 3.8+) with the necessary dependencies installed.
 
 
 ```bash
